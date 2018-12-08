@@ -1,3 +1,0 @@
-sample file added to git to study about git
-
-2nd line added to this file.
